@@ -1,0 +1,7 @@
+site_homepage:
+    path: /
+    defaults: { _controller: BlogBundle:Default:index}
+
+blog_article:
+    resource: "@BlogBundle/Resources/config/routing/article.yml"
+    prefix:   /article
