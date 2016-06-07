@@ -2,6 +2,9 @@
     "name": "alexey_samsonov/blog",
     "license": "proprietary",
     "type": "project",
+    "github-oauth": {
+        "github.com": "b7:50:42:b2:ea:6f:05:25:62:88:01:9f:99:19:fb:a7"
+    },
     "autoload": {
         "psr-4": {
             "": "src/"
